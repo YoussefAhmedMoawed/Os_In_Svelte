@@ -38,7 +38,7 @@ onMount(() => {
                     <img src="ReactorIcon.svg" alt="reactor" class="w-[30px] h-[30px]">
                 </button>   
                 <button id="FileManger" class="relative left-[5px] top-[5px] cursor-pointer">
-                    <img src="/FileManger.svg" alt="FileManger" class="w-[30px] h-[30px]">
+                    <img src="FileManger.svg" alt="FileManger" class="w-[30px] h-[30px]">
                 </button>
             </div>
 
