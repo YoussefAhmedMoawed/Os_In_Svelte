@@ -25,6 +25,10 @@ onMount(() => {
 })
 </script>
 
+<svelte:head>
+    <title>Reactor Os</title>
+</svelte:head>
+
 <body class="h-full w-full">
     <!-- -------------------------Footer---------------------------- -->
     <footer id="Taskbar" class=" flex items-center md:h-16 absolute bottom-0 w-full bg-gray-900">
